@@ -2,7 +2,6 @@ package base
 
 import base.enums.*
 
-
 abstract class Application {
     abstract val vision: ApplicationVision
     abstract val concern: ApplicationConcern

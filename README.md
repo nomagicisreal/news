@@ -1,3 +1,1 @@
-### 相關連結
-- [點子松新聞發想](https://hackmd.io/a6_QCPlWRU6ydXkWAv_U2w?both)
-- 已歸納的現有 App：![](https://hackmd.io/_uploads/HJdI484q2.jpg)
+這是一個整理 App 共通性的 project，目的在於整理市面上 App 的共通性、相似性等等
